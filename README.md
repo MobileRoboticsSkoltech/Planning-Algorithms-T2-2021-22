@@ -12,7 +12,7 @@ This repository includes all material used during the course: Class notes, unedi
 ## Lectures at the [YouTube channel](https://www.youtube.com/playlist?list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o)
 
  * [L01: Introduction. What is planning?](https://www.youtube.com/watch?v=l4iVw51H2pk&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=1)
- * [L02: Discrete Planning]()
+ * [L02: Discrete Planning](https://www.youtube.com/watch?v=oK6QWjFByhM&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=2)
  * [L03: Configuration Space]()
  * [L04: Sampling-based Planning]()
  * [L05: Discrete Optimal Planning]()
