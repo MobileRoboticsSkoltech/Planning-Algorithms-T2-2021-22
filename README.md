@@ -15,7 +15,7 @@ This repository includes all material used during the course: Class notes, unedi
  * [L02: Discrete Planning](https://www.youtube.com/watch?v=oK6QWjFByhM&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=2)
  * [L03: Configuration Space](https://www.youtube.com/watch?v=3KJGECerOQE&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=3)
  * [L04: Sampling-based Planning](https://www.youtube.com/watch?v=YCFAg8Qvv4M&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=4)
- * [L05: Discrete Optimal Planning]()
+ * [L05: Discrete Optimal Planning](https://www.youtube.com/watch?v=9O4W_-VkxTE&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=5)
  * [L06: Continious Optimal Planning]()
  * [L07: Decision Making and Games]()
  * [L08: Markov Decision Process]()
@@ -26,9 +26,9 @@ This repository includes all material used during the course: Class notes, unedi
 
 Deadline dates for submitting problem sets, in the folder `PS*`:
  * PS1: Discrete planning (14-November-2021)
- * PS2: Sampling-based planning (21-November-2021)
- * PS3: Value Iteration (28-November-2021)
- * PS4: Decision Making (5-December-2021)
+ * PS2: Sampling-based planning (25-November-2021)
+ * PS3: Value Iteration (5-December-2021)
+ * ~~PS4: Decision Making (5-December-2021)~~
  
 ## Final Course Project
 
