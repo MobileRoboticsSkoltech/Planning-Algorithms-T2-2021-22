@@ -16,7 +16,7 @@ This repository includes all material used during the course: Class notes, unedi
  * [L03: Configuration Space](https://www.youtube.com/watch?v=3KJGECerOQE&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=3)
  * [L04: Sampling-based Planning](https://www.youtube.com/watch?v=YCFAg8Qvv4M&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=4)
  * [L05: Discrete Optimal Planning](https://www.youtube.com/watch?v=9O4W_-VkxTE&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=5)
- * [L06: Continious Optimal Planning]()
+ * [L06: Continious Optimal Planning](https://www.youtube.com/watch?v=z6n7kXWiHjo&list=PLRXYrdEUvBoBds3a1PJ8g5mt122R1hm6o&index=6)
  * [L07: Decision Making and Games]()
  * [L08: Markov Decision Process]()
  * [L09: Reinforcement Learning]()
